@@ -1,4 +1,4 @@
-A React application that uses the UnSplash API to request images via a Search Bar submit event and format them into a nice grid. This was a project of mine I made during a Udemy React course, found [here](https://www.udemy.com/course/react-redux/).
+A React application that uses the UnSplash API to request images via a Search Bar submit event and formats them into a nice grid. This was a project of mine I made during a Udemy React course, found [here](https://www.udemy.com/course/react-redux/).
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
